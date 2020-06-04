@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         <code>Bootcamp 2020</code>
+         <code>Bootcamp 2020 BY PIAIC</code>
         </p>
         <a
           className="App-link"
