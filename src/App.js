@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Project By Umair
+          Project By Muhammad Umair
         </a>
       </header>
     </div>
